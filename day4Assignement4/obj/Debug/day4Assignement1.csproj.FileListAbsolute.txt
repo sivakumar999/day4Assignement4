@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\obj\Debug\day4Assignement1.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\obj\Debug\day4Assignement1.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\obj\Debug\day4Assignement1.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\bin\Debug\day4Assignement1.exe.config
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\bin\Debug\day4Assignement1.exe
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\bin\Debug\day4Assignement1.pdb
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\obj\Debug\day4Assignement1.exe
+M:\Simplilearn\mphasis\day4\day4Assignement1\day4Assignement1\obj\Debug\day4Assignement1.pdb
